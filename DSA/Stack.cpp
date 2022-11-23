@@ -81,6 +81,7 @@ template<class Type, class Len> class Stack{
             }
             std::cout << std::endl;
         };
+
         
 };
 
