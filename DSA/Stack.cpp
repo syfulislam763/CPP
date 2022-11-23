@@ -2,7 +2,7 @@
 #include <vector>
 #include <string>
 #include <algorithm>
-//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
+
 
 template<class Type, class Len> class Stack{
     private:
