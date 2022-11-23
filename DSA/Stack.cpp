@@ -3,7 +3,7 @@
 #include <string>
 #include <algorithm>
 
-
+//Stack data structure
 template<class Type, class Len> class Stack{
     private:
         Len length = 0;
